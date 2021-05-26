@@ -1,0 +1,1 @@
+# CAFIR-10-classification-by-HOG-and-histogram-features-with-MLP
