@@ -1,4 +1,4 @@
-# CAFIR-10-classification-by-HOG-and-histogram-features-with-MLP
+# CIFAR-10-classification-by-HOG-and-histogram-features-with-MLP
 This code is a project from DIP course.
 The aim of project is to extract any features you like to help a classsifier to finish CAFIR-10 dataset classification task, the required accuracy of which is above 54%.
 
